@@ -29,7 +29,7 @@ const COPY = {
       items: [
         "Invite trusted contacts",
         "Get notified when someone checks in",
-        "Auto location with manual override"
+        "Auto location with manual override (soon)"
       ]
     },
     features: {
@@ -49,7 +49,7 @@ const COPY = {
           text: "Get notified when someone checks in, and ping a friend if they have not updated."
         },
         {
-          title: "Location clarity",
+          title: "Location clarity (soon)",
           text: "Auto location with manual override — clearly marked as device or manual."
         },
         {
@@ -58,7 +58,7 @@ const COPY = {
         },
         {
           title: "Regional alerts (soon)",
-          text: "Optional air-raid alerts integration by region via a webhook pipeline."
+          text: "Subtle reminder to update your status when regional air-raid alerts are detected."
         }
       ]
     },
@@ -76,7 +76,7 @@ const COPY = {
         },
         {
           title: "Share your location",
-          text: "Auto location with manual override, always labeled for clarity."
+          text: "Auto location with manual override, show your current city/region to trusted contacts."
         },
         {
           title: "Stay connected",
@@ -87,7 +87,7 @@ const COPY = {
     ukraine: {
       title: "Designed for Ukraine",
       text:
-        "Safe supports Ukrainian and English, with a calm interface built for real moments in Ukraine. Soon, opt into optional regional air-raid alerts integration when available.",
+        "Safe supports Ukrainian and English (soon), with a calm interface built for real moments in Ukraine. Soon, opt into optional regional air-raid alerts integration when available.",
       languageLabel: "Language",
       alertsSoon: "Air-raid alerts by region (soon)"
     },
@@ -108,8 +108,8 @@ const COPY = {
           text: "Share only the status and location you want. Manual location is always an option."
         },
         {
-          title: "Clear location labels",
-          text: "Everyone can see whether a location is auto from the device or manually set."
+          title: "Calm communication",
+          text: "Safe focuses on simple status updates instead of noisy chats or public feeds."
         },
         {
           title: "Respectful by design",
